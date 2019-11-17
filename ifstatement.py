@@ -63,3 +63,5 @@ for c in range(len(b)):
 	print(c, c(i))
 
 
+
+
