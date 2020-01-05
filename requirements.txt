@@ -1,0 +1,22 @@
+black
+flake8
+matplotlib
+mypy
+numpy
+opencv-python
+pandas
+pillow
+pytest
+requests
+sklearn
+sympy
+
+opencv-python==4.1.0.25
+opencv-python==3.9.*
+pip --version
+
+#homework
+https://numpy.org/devdocs/user/quickstart.html (The Basics to Basic Operations)
+https://github.com/protocolbuffers/protobuf/issues/4176
+https://github.com/ytdl-org/youtube-dl/
+https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
